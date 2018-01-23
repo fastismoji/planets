@@ -1,4 +1,6 @@
-Esta línea es local. Cold and dry, but everything is my favorite color
+
+Esta línea es mejorada. Cold and dry, but everything is my favorite color
+Esta línea es remota. Cold and dry, but everything is my favorite color
 The two beautiful  moons may be a problem for woolfman
 but the Mummy will appreciate the lack of humidity
 The two beautiful moons
